@@ -1,0 +1,8 @@
+/db_data
+/home/*
+/backend
+/logs/*
+.env
+
+!/home/.tbls.yml
+!.gitkeep

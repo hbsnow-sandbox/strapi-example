@@ -1,0 +1,8 @@
+# .tbls.yml
+
+# DSN (Databaase Source Name) to connect database
+dsn: mysql://root:secret@localhost:3306/strapi
+
+# Path to generate document
+# Default is `dbdoc`
+docPath: dbdoc
